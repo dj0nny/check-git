@@ -1,0 +1,10 @@
+{
+  "name": "is-git-sync",
+  "version": "1.0.0",
+  "description": "determines if a git repository exists within a directory",
+  "main": "index.js",
+  "repository": "https://github.com/dj0nny/is-git-sync.git",
+  "author": "Dj0nny",
+  "license": "MIT",
+  "private": false
+}
