@@ -23,7 +23,7 @@ yarn add check-git
 ### Usage
 
 ```javascript
-if(isGitSync(process.cwd())) {
+if(checkGit(process.cwd())) {
   console.log('Yes dude, there is a git repository')
 } else {
   console.log('Sorry dude, there is no git repository is this folder')
