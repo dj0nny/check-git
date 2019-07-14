@@ -1,7 +1,7 @@
 # check-git
 
 [![npm version](https://badge.fury.io/js/is-git-sync.svg)](https://badge.fury.io/js/is-git-sync)
-![npm](https://img.shields.io/npm/dm/is-git-sync.svg)
+![npm](https://img.shields.io/npm/dm/check-git.svg)
 
 > Determines if a git repository exists within a directory
 
