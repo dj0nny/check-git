@@ -1,4 +1,4 @@
-# is-git-sync
+# check-git
 
 [![npm version](https://badge.fury.io/js/is-git-sync.svg)](https://badge.fury.io/js/is-git-sync)
 ![npm](https://img.shields.io/npm/dm/is-git-sync.svg)
@@ -15,9 +15,9 @@ For this project you need [__Node__](https://nodejs.org/en/) installed on your m
 
 Open a terminal and type, inside the directory:
 ```bash
-npm i is-git-sync
+npm i check-git
 # OR
-yarn add is-git-sync
+yarn add check-git
 ```
 
 ### Usage

@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-function isGitSync(dir) {
+function checkGit(dir) {
   return fs.existsSync(path.join(dir, '.git'));
 }
 
-module.exports = isGitSync;
+module.exports = checkGit;
