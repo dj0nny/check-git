@@ -1,10 +1,19 @@
 {
   "name": "is-git-sync",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "determines if a git repository exists within a directory",
   "main": "index.js",
   "repository": "https://github.com/dj0nny/is-git-sync.git",
   "author": "Dj0nny",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "keywords": [
+    "node.js",
+    "git",
+    "folder",
+    "git repository",
+    "local",
+    "directory",
+    "git directory"
+  ]
 }
